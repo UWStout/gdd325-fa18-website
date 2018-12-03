@@ -33,7 +33,7 @@
 
       <div class="col-md-6 col-xs-12 thumb" data-ng-repeat="game in games">
         <a class="thumbnail" data-ng-href="{{game.folder + '/index.html'}}">
-          <img src="#" data-ng-src="{{game.folder + '/bannerThumb.gif'}}" alt="{{game.name}}" class="img-responsive" />
+          <img src="#" data-ng-src="{{game.folder + '/' game.banner}}" alt="{{game.name}}" class="img-responsive" />
         </a>
       </div>
 
