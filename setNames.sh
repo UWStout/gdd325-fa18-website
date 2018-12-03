@@ -29,7 +29,7 @@ Game5Repo="https://github.com/UWStout/blackout.git"
 if [ -d "./space_cadet/play" ]; then
   rm -rf ./space_cadet/play
 fi
-mkdir ./space_cadet/play
+# mkdir ./space_cadet/play
 git submodule add "${Game1Repo}" ./space_cadet/play
 
 # # Update game 1 details
@@ -47,7 +47,7 @@ git submodule add "${Game1Repo}" ./space_cadet/play
 if [ -d "./edge_of_the_map/play" ]; then
   rm -rf ./edge_of_the_map/play
 fi
-mkdir ./edge_of_the_map/play
+# mkdir ./edge_of_the_map/play
 git submodule add "${Game2Repo}" ./edge_of_the_map/play
 
 # Update game 2 details
@@ -65,7 +65,7 @@ git submodule add "${Game2Repo}" ./edge_of_the_map/play
 if [ -d "./botanica/play" ]; then
   rm -rf ./botanica/play
 fi
-mkdir ./botanica/play
+# mkdir ./botanica/play
 git submodule add "${Game3Repo}" ./botanica/play
 
 # Update game 3 details
@@ -83,7 +83,7 @@ git submodule add "${Game3Repo}" ./botanica/play
 if [ -d "./seasons/play" ]; then
   rm -rf ./seasons/play
 fi
-mkdir ./seasons/play
+# mkdir ./seasons/play
 git submodule add "${Game4Repo}" ./seasons/play
 
 # Update game 4 details
@@ -101,7 +101,7 @@ git submodule add "${Game4Repo}" ./seasons/play
 if [ -d "./blackout/play" ]; then
   rm -rf ./blackout/play
 fi
-mkdir ./blackout/play
+# mkdir ./blackout/play
 git submodule add "${Game5Repo}" ./blackout/play
 
 # Update game 5 details
