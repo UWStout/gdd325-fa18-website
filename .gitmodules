@@ -1,0 +1,15 @@
+[submodule "space_cadet/play"]
+	path = space_cadet/play
+	url = https://github.com/UWStout/space-cadet-lab-rat.git
+[submodule "edge_of_the_map/play"]
+	path = edge_of_the_map/play
+	url = https://github.com/UWStout/edge-of-the-map.git
+[submodule "botanica/play"]
+	path = botanica/play
+	url = https://github.com/UWStout/botanica.git
+[submodule "seasons/play"]
+	path = seasons/play
+	url = https://github.com/UWStout/seasons.git
+[submodule "blackout/play"]
+	path = blackout/play
+	url = https://github.com/UWStout/blackout.git
