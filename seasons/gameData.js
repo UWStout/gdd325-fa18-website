@@ -9,19 +9,28 @@ var gameData = {
   playDestination: 'play/index.html',
 
   /** Please do not edit things ABOVE this line **/
-  byline: 'A pithy and short statement to catch the players attention!',
+  byline: 'Rescue mother nature and bring her back to Earth!',
 
   description: `
-  description goes here.
+  Mangala, the God of Mars, has stopped the flow of seasons on Earth after
+  kidnapping Mother Nature. He threatens to take over the Earth in her
+  absence and turn it into a wasteland like Mars. Only Anemoi, the son of
+  Mother Nature, has the ability to bring the seasons back and save the
+  world. As the player, take control of Anemoi and use his minor control
+  of the Seasons to stop Mangala and his goons and restore the seasonal
+  cycle to Earth.
   `,
 
   creators: [
-    { name: 'Creator name', contrib: 'Title and/or What I did for the game' },
-    { name: 'Creator name', contrib: 'Title and/or What I did for the game' }
+    { name: 'Alex Greenberg', contrib: 'Lead Artist' },
+    { name: 'Alex Myers', contrib: 'AI Developer' },
+    { name: 'Chris Allender', contrib: 'Level Designer' },
+    { name: 'Michael Lange', contrib: 'Gameplay and Level Programmer' },
+    { name: 'Cozy Dumas', contrib: 'UI Developer' }
   ],
 
   otherContributors: [
-    { name: 'Outside Contributor name', contrib: 'Title and/or What they did for the game' }
+    // { name: 'Outside Contributor name', contrib: 'Title and/or What they did for the game' }
   ],
 
   screenshots: [

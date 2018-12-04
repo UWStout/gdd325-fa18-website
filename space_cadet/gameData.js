@@ -9,19 +9,21 @@ var gameData = {
   playDestination: 'play/index.html',
 
   /** Please do not edit things ABOVE this line **/
-  byline: 'A pithy and short statement to catch the players attention!',
+  byline: 'Find your way back home.',
 
-  description: `
-  description goes here.
-  `,
+  description: `After crash-landing on a distant planet, Remy must
+    scavange resources to rebuild his ship and make it back home`,
 
   creators: [
-    { name: 'Creator name', contrib: 'Title and/or What I did for the game' },
-    { name: 'Creator name', contrib: 'Title and/or What I did for the game' }
+    { name: 'Jake Anderson', contrib: 'Programmer' },
+    { name: 'Chris Brewer', contrib: 'Art' },
+    { name: 'Kayleigh Callaway', contrib: 'Programmer' },
+    { name: 'Chloe Meyer', contrib: 'Art' },
+    { name: 'Jacob Schwitzer', contrib: 'Programmer' }
   ],
 
   otherContributors: [
-    { name: 'Outside Contributor name', contrib: 'Title and/or What they did for the game' }
+    // { name: 'Outside Contributor name', contrib: 'Title and/or What they did for the game' }
   ],
 
   screenshots: [
