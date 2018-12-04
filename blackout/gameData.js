@@ -26,7 +26,7 @@ var gameData = {
   ],
 
   otherContributors: [
-    { name: 'Outside Contributor name', contrib: 'Title and/or What they did for the game' }
+    // { name: 'Outside Contributor name', contrib: 'Title and/or What they did for the game' }
   ],
 
   screenshots: [
