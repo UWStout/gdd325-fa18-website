@@ -30,9 +30,9 @@ var gameData = {
   ],
 
   screenshots: [
-    { src: 'MartianGardens.jpg', alt: 'Team Logo', caption: '' },
-    { src: 'Concept.jpg', alt: 'Background Concept Painting', caption: 'Background Concept' },
-    { src: 'Waspy.jpg', alt: 'Wasp Enemy', caption: '' },
-    { src: 'Chirp_02.jpg', alt: 'Cricket Hero', caption: '' }
+    { src: 'MartianGardens.png', alt: 'Team Logo', caption: '' },
+    { src: 'Concept.png', alt: 'Background Concept Painting', caption: 'Background Concept' },
+    { src: 'Waspy.png', alt: 'Wasp Enemy', caption: '' },
+    { src: 'Chirp_02.png', alt: 'Cricket Hero', caption: '' }
   ]
 }
