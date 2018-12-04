@@ -30,10 +30,9 @@ var gameData = {
   ],
 
   screenshots: [
-    { src: 'screenshot1.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot2.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot3.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot4.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot5.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' }
+    { src: 'MartianGardens.jpg', alt: 'Team Logo', caption: '' },
+    { src: 'Concept.jpg', alt: 'Background Concept Painting', caption: 'Background Concept' },
+    { src: 'Waspy.jpg', alt: 'Wasp Enemy', caption: '' },
+    { src: 'Chirp_02.jpg', alt: 'Cricket Hero', caption: '' }
   ]
 }
