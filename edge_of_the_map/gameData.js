@@ -33,9 +33,9 @@ var gameData = {
   ],
 
   screenshots: [
-    { src: 'map1.jpg', alt: 'World Map', caption: 'World Map' },
-    { src: 'map2.jpg', alt: 'Treasure Map', caption: 'Treasure Map' },
-    { src: 'seasnake.jpg', alt: 'Sea Snake Enemy', caption: '' },
-    { src: 'concept.jpg', alt: 'Concept Sketches', caption: '' }
+    { src: 'map1.png', alt: 'World Map', caption: 'World Map' },
+    { src: 'map2.png', alt: 'Treasure Map', caption: 'Treasure Map' },
+    { src: 'seasnake.png', alt: 'Sea Snake Enemy', caption: '' },
+    { src: 'concept.png', alt: 'Concept Sketches', caption: '' }
   ]
 }
