@@ -9,26 +9,33 @@ var gameData = {
   playDestination: 'play/index.html',
 
   /** Please do not edit things ABOVE this line **/
-  byline: 'A pithy and short statement to catch the players attention!',
+  byline: 'Captain your ship in search of adventure!',
 
   description: `
-  description goes here.
+  You are the captain of a ship who goes searching for adventure. However
+  you bite off more than you can chew as you are now stuck in a magical map
+  that contains all manner of monsters! Can you and your crew fight your way
+  to freedom?
   `,
 
   creators: [
-    { name: 'Creator name', contrib: 'Title and/or What I did for the game' },
-    { name: 'Creator name', contrib: 'Title and/or What I did for the game' }
+    { name: 'Eliot Waters', contrib: 'Core Systems / UI Programmer' },
+    { name: 'Cameron Pyfferoen', contrib: 'AI Programmer' },
+    { name: 'Hunter Nguyen', contrib: 'Combat Programmer' },
+    { name: 'Jesselyn Lonneman', contrib: 'Enemy / UI Artist' },
+    { name: 'Dylan Sheppard', contrib: 'Player / Map Artist' }
   ],
 
   otherContributors: [
-    { name: 'Outside Contributor name', contrib: 'Title and/or What they did for the game' }
+    { name: 'q009', contrib: 'Cannon fire and hit sfx (opengameart.org)' },
+    { name: 'Tozan', contrib: 'Pirate Music (opengameart.org)' },
+    { name: 'Otto Halmén', contrib: 'Thunderchild Music (opengameart.org)' }
   ],
 
   screenshots: [
-    { src: 'screenshot1.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot2.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot3.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot4.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot5.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' }
+    { src: 'map1.jpg', alt: 'World Map', caption: 'World Map' },
+    { src: 'map2.jpg', alt: 'Treasure Map', caption: 'Treasure Map' },
+    { src: 'seasnake.jpg', alt: 'Sea Snake Enemy', caption: '' },
+    { src: 'concept.jpg', alt: 'Concept Sketches', caption: '' }
   ]
 }
