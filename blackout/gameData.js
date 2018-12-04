@@ -9,15 +9,20 @@ var gameData = {
   playDestination: 'play/index.html',
 
   /** Please do not edit things ABOVE this line **/
-  byline: 'A pithy and short statement to catch the players attention!',
+  byline: 'Help restore light to the world!',
 
   description: `
-  description goes here.
+  Surrounded by darkness, a lone pocketwatch lights the way through a dark and
+  mysterious environment. Guide a young and inexperienced assistant clock-keeper,
+  Toki, and help him to restore light to his world.
   `,
 
   creators: [
-    { name: 'Creator name', contrib: 'Title and/or What I did for the game' },
-    { name: 'Creator name', contrib: 'Title and/or What I did for the game' }
+    { name: 'Gail Machalek', contrib: 'Environmental/Concept Artist' },
+    { name: 'Jonah Schmisek', contrib: 'Gameplay Programmer' },
+    { name: 'Justin Bryant', contrib: 'Lighting Programmer' },
+    { name: 'Justin Schotz', contrib: 'Character/Animation Artist' },
+    { name: 'Karie Holmstadt', contrib: 'Interactivity Programmer' }
   ],
 
   otherContributors: [
@@ -25,10 +30,8 @@ var gameData = {
   ],
 
   screenshots: [
-    { src: 'screenshot1.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot2.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot3.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot4.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot5.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' }
+    { src: 'TitleScreen.jpg', alt: 'Title Screen', caption: '' },
+    { src: 'Gameplay.jpg', alt: 'Gameplay', caption: 'Gameplay Screenshot' },
+    { src: 'Character.jpg', alt: 'Character', caption: 'Character Concept' }
   ]
 }
