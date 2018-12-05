@@ -27,10 +27,9 @@ var gameData = {
   ],
 
   screenshots: [
-    { src: 'screenshot1.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot2.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot3.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot4.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' },
-    { src: 'screenshot5.jpg', alt: 'Screenshot', caption: 'Amazing Screenshot' }
+    { src: 'image2.png', alt: 'Concept', caption: 'Underground Concept Painting' },
+    { src: 'image3.png', alt: 'Concept', caption: 'Overworld Concept Painting' },
+    { src: 'image1.png', alt: 'Character', caption: 'Remy Character Art' },
+    { src: 'image.png', alt: 'Team Logo', caption: '' }
   ]
 }
