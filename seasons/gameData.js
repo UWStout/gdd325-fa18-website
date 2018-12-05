@@ -34,9 +34,9 @@ var gameData = {
   ],
 
   screenshots: [
+    { src: 'Seasons_ImageSet_04.png', alt: 'Title Page', caption: '' },
     { src: 'Seasons_ImageSet_01.png', alt: 'Gameplay', caption: '' },
-    { src: 'Seasons_ImageSet_01.png', alt: 'Gameplay', caption: '' },
-    { src: 'Seasons_ImageSet_01.png', alt: 'Gameplay', caption: '' },
-    { src: 'Seasons_ImageSet_01.png', alt: 'Title', caption: '' }
+    { src: 'Seasons_ImageSet_02.png', alt: 'Gameplay', caption: '' },
+    { src: 'Seasons_ImageSet_03.png', alt: 'Gameplay', caption: '' }
   ]
 }
