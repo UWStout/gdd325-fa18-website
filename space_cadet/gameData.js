@@ -3,7 +3,7 @@ var gameData = {
   folder: 'space_cadet',
 
   trailerVimeoID: '999999999',
-  codeEvolutionVimeoID: '999999999',
+  codeEvolutionVimeoID: '305233897',
 
   playSplashscreen: false,
   playDestination: 'play/index.html',
