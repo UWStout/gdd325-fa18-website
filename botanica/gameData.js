@@ -30,9 +30,10 @@ var gameData = {
   ],
 
   screenshots: [
-    { src: 'MartianGardens.png', alt: 'Team Logo', caption: '' },
+    { src: 'Botanica_web_03.png', alt: 'Team Logo', caption: '' },
     { src: 'Concept.png', alt: 'Background Concept Painting', caption: 'Background Concept' },
-    { src: 'Waspy.png', alt: 'Wasp Enemy', caption: '' },
-    { src: 'Chirp_02.png', alt: 'Cricket Hero', caption: '' }
+    { src: 'Botanica_web_01.png', alt: 'Level Design', caption: '' },
+    { src: 'Botanica_web_02.png', alt: 'The Greenhouse', caption: '' },
+    { src: 'Botanica_web_04.png', alt: 'Main Menu', caption: '' }
   ]
 }
