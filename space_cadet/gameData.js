@@ -30,8 +30,6 @@ var gameData = {
     { src: 'spacerat-image-06.png', alt: 'Gameplay', caption: '' },
     { src: 'spacerat-image-01.png', alt: 'Gameplay', caption: '' },
     { src: 'spacerat-image-02.png', alt: 'Gameplay', caption: '' },
-    { src: 'image2.png', alt: 'Concept', caption: 'Underground Concept Painting' },
-    { src: 'image3.png', alt: 'Concept', caption: 'Overworld Concept Painting' },
     { src: 'spacerat-image-03.png', alt: 'Gameplay', caption: '' },
     { src: 'spacerat-image-04.png', alt: 'Gameplay', caption: '' },
     { src: 'spacerat-image-05.png', alt: 'Gameplay', caption: '' }
