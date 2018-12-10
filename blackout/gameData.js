@@ -2,7 +2,7 @@ var gameData = {
   name: 'BlackOut',
   folder: 'blackout',
 
-  trailerVimeoID: '999999999',
+  trailerVimeoID: '305563326',
   codeEvolutionVimeoID: '305124131',
 
   playSplashscreen: false,
