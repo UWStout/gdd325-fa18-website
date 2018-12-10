@@ -2,7 +2,7 @@ var gameData = {
   name: 'Space Cadet Lab Rat',
   folder: 'space_cadet',
 
-  trailerVimeoID: '999999999',
+  trailerVimeoID: '305563305',
   codeEvolutionVimeoID: '305233897',
 
   playSplashscreen: false,
