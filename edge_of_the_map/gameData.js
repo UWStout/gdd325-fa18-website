@@ -2,7 +2,7 @@ var gameData = {
   name: 'Edge of the Map',
   folder: 'edge_of_the_map',
 
-  trailerVimeoID: '999999999',
+  trailerVimeoID: '305643953',
   codeEvolutionVimeoID: '305124193',
 
   playSplashscreen: false,
