@@ -8,6 +8,10 @@ var gameData = {
   playSplashscreen: false,
   playDestination: 'play/index.html',
 
+  // Location of the download files
+  winDownload: 'bin/Seasons-win64.zip',
+  macDownload: 'bin/Seasons-macOS.dmg',
+
   /** Please do not edit things ABOVE this line **/
   byline: 'Rescue mother nature and bring her back to Earth!',
 

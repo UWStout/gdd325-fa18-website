@@ -8,6 +8,10 @@ var gameData = {
   playSplashscreen: false,
   playDestination: 'play/index.html',
 
+  // Location of the download files
+  winDownload: 'bin/BOTANICA-win64.zip',
+  macDownload: 'bin/BOTANICA-macOS.dmg',
+
   /** Please do not edit things ABOVE this line **/
   byline: 'escape the greenhouse and make it back to the great outdoors',
 

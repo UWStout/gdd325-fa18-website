@@ -8,6 +8,10 @@ var gameData = {
   playSplashscreen: false,
   playDestination: 'play/index.html',
 
+  // Location of the download files
+  winDownload: 'bin/Edge of the Map-win64.zip',
+  macDownload: 'bin/Edge of the Map-macOS.dmg',
+  
   /** Please do not edit things ABOVE this line **/
   byline: 'Captain your ship in search of adventure!',
 

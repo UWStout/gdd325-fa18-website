@@ -8,6 +8,10 @@ var gameData = {
   playSplashscreen: false,
   playDestination: 'play/index.html',
 
+  // Location of the download files
+  winDownload: 'bin/Space Cadet Lab Rat-win64.zip',
+  macDownload: 'bin/Space Cadet Lab Rat-macOS.dmg',
+  
   /** Please do not edit things ABOVE this line **/
   byline: 'Find your way back home.',
 
