@@ -8,6 +8,10 @@ var gameData = {
   playSplashscreen: false,
   playDestination: 'play/index.html',
 
+  // Location of the download files
+  winDownload: 'bin/BlackOut-win64.zip',
+  macDownload: 'bin/BlackOut-macOS.dmg',
+
   /** Please do not edit things ABOVE this line **/
   byline: 'Help restore light to the world!',
 

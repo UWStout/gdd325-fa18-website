@@ -107,6 +107,15 @@
         </div>
       </div>
 
+      <div class="row" data-ng-show="data.winDownload || data.macDownload">
+        <div class="col-lg-6 text-center">
+          <a data-ng-href="{{'../' + data.folder + '/' + data.winDownload}}" class="btn btn-primary btn-large" target="_blank">Windows Download</a>
+        </div>
+        <div class="col-lg-6 text-center">
+          <a data-ng-href="{{'../' + data.folder + '/' + data.macDownload}}" class="btn btn-primary btn-large" target="_blank">Mac OS Download</a>
+        </div>
+      </div>
+
       <hr />
 
       <a href="../index.html"><i class="fa fa-step-backward fa-lg"></i>&nbsp;&nbsp; Return to Games</a>
