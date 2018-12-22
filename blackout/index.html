@@ -99,21 +99,21 @@
       <hr />
 
       <div class="row text-center">
+        <p>(Play the game in your current web browser - Chrome recommended)</p>
         <div class="col-lg-12 text-center" data-ng-show="!data.playSplashscreen">
           <a data-ng-href="{{'../' + data.folder + '/' + data.playDestination}}" class="btn btn-primary btn-xlarge" target="_blank">Play Game</a>
         </div>
         <div class="col-lg-12 text-center" data-ng-show="data.playSplashscreen">
           <a data-ng-href="../splash/index.html?dest={{'../' + data.folder + '/' + data.playDestination}}" class="btn btn-primary btn-xlarge" target="_blank">Play Game</a>
         </div>
-        <p>(Play the game in your current web browser - Chrome recommended)</p>
       </div>
 
       <div class="row text-center" data-ng-show="data.winDownload || data.macDownload">
         <p>Click below to download the game and play it locally.</p>
-        <div class="col-lg-6 text-center">
+        <div class="col-xs-6 text-center">
           <a data-ng-href="{{'../' + data.folder + '/' + data.winDownload}}" class="btn btn-primary btn-large" target="_blank">Windows Download</a>
         </div>
-        <div class="col-lg-6 text-center">
+        <div class="col-xs-6 text-center">
           <a data-ng-href="{{'../' + data.folder + '/' + data.macDownload}}" class="btn btn-primary btn-large" target="_blank">Mac OS Download</a>
         </div>
       </div>
